@@ -17,6 +17,23 @@ const fakultas = [
     ],
     ratio: '1:30',
     avg_study_time: '3.5',
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: 2021,
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: 2022,
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+    ],
     prodi: [
       {
         name: 'Pendidikan Matematika',
