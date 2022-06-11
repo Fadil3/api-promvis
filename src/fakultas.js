@@ -22,12 +22,12 @@ const fakultas = [
         title: 'Rasio Dosen Berdasarkan Gender',
         data: [
           {
-            tahun: 2021,
+            tahun: '2021',
             laki_laki: 38,
             perempuan: 62,
           },
           {
-            tahun: 2022,
+            tahun: '2022',
             laki_laki: 40,
             perempuan: 60,
           },
