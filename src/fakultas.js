@@ -46,6 +46,47 @@ const fakultas = [
             s3: 59,
           },
         ],
+      },{
+        title: 'Keketatan Penerimaaan Mahasiswa',
+         data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi:7,
+          },
+           {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi:11,
+          },
+           {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi:7,
+          },
+           {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi:7,
+          },
+           {
+            tahun: 2021,
+            snmptn:20,
+            sbmptn: 12,
+            smupi:8,
+          },
+           {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi:4,
+          },
+          
+        ],
       }
     ],
     prodi: [
