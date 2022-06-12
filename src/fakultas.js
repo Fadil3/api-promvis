@@ -37,13 +37,13 @@ const fakultas = [
          data: [
           {
             tahun: '2021',
-            laki_laki: 53,
-            perempuan: 47,
+            s2: 53,
+            s3: 47,
           },
           {
             tahun: '2022',
-            laki_laki: 41,
-            perempuan: 59,
+            s2: 41,
+            s3: 59,
           },
         ],
       }
