@@ -32,9 +32,10 @@ const fakultas = [
             perempuan: 60,
           },
         ],
-      },{
+      },
+      {
         title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
-         data: [
+        data: [
           {
             tahun: '2021',
             s2: 53,
@@ -46,48 +47,69 @@ const fakultas = [
             s3: 59,
           },
         ],
-      },{
+      },
+      {
         title: 'Keketatan Penerimaaan Mahasiswa',
-         data: [
+        data: [
           {
             tahun: 2017,
             snmptn: 18,
             sbmptn: 17,
-            smupi:7,
+            smupi: 7,
           },
-           {
+          {
             tahun: 2018,
             snmptn: 29,
             sbmptn: 29,
-            smupi:11,
+            smupi: 11,
           },
-           {
+          {
             tahun: 2019,
             snmptn: 18,
             sbmptn: 17,
-            smupi:7,
+            smupi: 7,
           },
-           {
+          {
             tahun: 2020,
             snmptn: 18,
             sbmptn: 11,
-            smupi:7,
+            smupi: 7,
           },
-           {
+          {
             tahun: 2021,
-            snmptn:20,
+            snmptn: 20,
             sbmptn: 12,
-            smupi:8,
+            smupi: 8,
           },
-           {
+          {
             tahun: 2022,
             snmptn: 18,
             sbmptn: 10,
-            smupi:4,
+            smupi: 4,
           },
-          
         ],
-      }
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
     ],
     prodi: [
       {
