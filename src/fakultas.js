@@ -32,7 +32,21 @@ const fakultas = [
             perempuan: 60,
           },
         ],
-      },
+      },{
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+         data: [
+          {
+            tahun: '2021',
+            laki_laki: 53,
+            perempuan: 47,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 41,
+            perempuan: 59,
+          },
+        ],
+      }
     ],
     prodi: [
       {
