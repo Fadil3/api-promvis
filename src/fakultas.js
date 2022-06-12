@@ -1,5 +1,3 @@
-//base image path
-const baseImagePath = './public/images/fakultas/'
 
 const fakultas = [
   {

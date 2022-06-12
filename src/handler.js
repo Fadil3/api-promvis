@@ -1,4 +1,5 @@
 const fakultas = require('./fakultas')
+const prodi = require('./prodi')
 
 const getAllFakultasHandler = () => ({
   status: 'success',
@@ -27,7 +28,28 @@ const getDetailFakultasHandler = (request, h) => {
     },
   }
 }
+const getDetailProdiHandler = (request, h) => {
+  const { slug } = request.params
+  const pickedProdi = prodi.find((prodi) => prodi.slug === slug)
+
+  if (!pickedProdi) {
+    return h
+      .response({
+        status: 'error',
+        message: 'Prodi not found',
+      })
+      .code(404)
+  }
+
+  return {
+    status: 'success',
+    data: {
+      ...pickedProdi,
+    },
+  }
+}
 module.exports = {
   getAllFakultasHandler,
   getDetailFakultasHandler,
+  getDetailProdiHandler,
 }
