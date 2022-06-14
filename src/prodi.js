@@ -436,7 +436,7 @@ const prodi = [
     name: 'Pendidikan Guru Sekolah Dasar',
     jenjang: 'S1',
     akreditasi: 'A',
-    url_image: 'http://165.22.109.98:9999/img/Purwakarta5.png',
+    url_image: 'http://165.22.109.98:9999/img/Purwakarta5.jpg',
     slug: 's1-pendidikan-guru-sekolah-dasar',
     gallery: [
       'http://165.22.109.98:9999/img/Purwakarta50.jpg',
