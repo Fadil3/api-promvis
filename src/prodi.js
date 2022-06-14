@@ -531,6 +531,393 @@ const prodi = [
       },
     ],
   },
+  {
+    name: 'Pendidikan Teknik Sipil',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/FPTK.jpg',
+    slug: 's1-pendidikan-ilmu-teknik-sipil',
+    gallery: [
+      'http://165.22.109.98:9999/img/SIPIL1.jpg',
+      'http://165.22.109.98:9999/img/SIPIL2.jpg',
+      'http://165.22.109.98:9999/img/SIPIL3.jpg',
+      'http://165.22.109.98:9999/img/SIPIL4.jpg',
+      'http://165.22.109.98:9999/img/SIPIL5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Jurusan Pendidikan Teknik Sipil adalah salah satu jurusan yang berada dibawah Fakultas Pendidikan Teknologi dan Kejuruan , Universitas Pendidikan Indonesia',
+    kurikulum: [
+      {
+        name: 'STRUKTUR KAYU',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'PRAKTIK KAYU',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'HIDROLOGI ',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Teknik Arsitektur',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/FPTK.jpg',
+    slug: 's1-pendidikan-ilmu-teknik-arsitektur',
+    gallery: [
+      'http://165.22.109.98:9999/img/ARSITEKTUR1.jpg',
+      'http://165.22.109.98:9999/img/ARSITEKTUR2.jpg',
+      'http://165.22.109.98:9999/img/ARSITEKTUR3.jpg',
+      'http://165.22.109.98:9999/img/ARSITEKTUR4.jpg',
+      'http://165.22.109.98:9999/img/ARSITEKRUR5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Departemen Pendidikan Teknik Arsitektur (DPTA) berdiri pada tahun 2006 melalui SK Rektor No. 8047/J33/PP.03/2006 dan merupakan hasil dari pemekaran Jurusan Pendidikan Teknik Bangunan. Saat ini, DPTA memiliki dua program studi, yaitu: (1) Pendidikan Teknik Arsitektur – S1, yang berfokus pada pengembangan disiplin ilmu pendidikan di bidang arsitektur; dan (2) Arsitektur – S1, yang berfokus pada pendidikan disiplin ilmu arsitektur secara profesional.',
+    kurikulum: [
+      {
+        name: 'Sejarah Arsitektur',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Nirmana',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Fisika Bangunan',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Teknik Agroindustri',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/FPTK.jpg',
+    slug: 's1-pendidikan-ilmu-teknik-agroindustri',
+    gallery: [
+      'http://165.22.109.98:9999/img/AGROINDUSTRI1.jpg',
+      'http://165.22.109.98:9999/img/AGROINDUSTRI2.jpg',
+      'http://165.22.109.98:9999/img/AGROINDUSTRI3.jpg',
+      'http://165.22.109.98:9999/img/AGROINDUSTRI4.jpg',
+      'http://165.22.109.98:9999/img/AGROINDUSTRI5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'The Agro-industrial Technology Education Study Program was initiated in 2008, based on the Decree of the Rector of the Indonesian Education University No.6071 / H40 / KL / 2008 concerning “The Opening of the Agro-Industrial Technology Education Study Program at the Faculty of Technology and Vocational Education, Universitas Pendidikan Indonesia.”',
+    kurikulum: [
+      {
+        name: 'EXPERIMENT DESIGN',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'FOOD MICROBIOLOGY',
+        sks: '3',
+        semester: '2',
+      },
+      {
+        name: 'EDUCATION MANAGEMENT',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
 ]
 
 module.exports = prodi
