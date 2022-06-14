@@ -949,7 +949,7 @@ const fakultas = [
   {
     name: 'FPEB',
     slug: 'fpeb',
-    url_image: 'http://165.22.109.98:9999/img/FPEB.jpg',
+    url_image: 'http://165.22.109.98:9999/img/FPEB.jpeg',
     full_name: 'Fakultas Pendidikan Ekonomi dan Bisnis',
     gallery: [
       'http://165.22.109.98:9999/img/akuntansi1.jpg',
