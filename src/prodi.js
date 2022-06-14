@@ -539,7 +539,7 @@ const prodi = [
     slug: 's1-pendidikan-ilmu-teknik-sipil',
     gallery: [
       'http://165.22.109.98:9999/img/SIPIL1.jpg',
-      'http://165.22.109.98:9999/img/SIPIL2.jpg',
+      'http://165.22.109.98:9999/img/SIPIL2.JPG',
       'http://165.22.109.98:9999/img/SIPIL3.jpg',
       'http://165.22.109.98:9999/img/SIPIL4.jpg',
       'http://165.22.109.98:9999/img/SIPIL5.jpg',
@@ -669,8 +669,8 @@ const prodi = [
     gallery: [
       'http://165.22.109.98:9999/img/ARSITEKTUR1.jpg',
       'http://165.22.109.98:9999/img/ARSITEKTUR2.jpg',
-      'http://165.22.109.98:9999/img/ARSITEKTUR3.jpg',
-      'http://165.22.109.98:9999/img/ARSITEKTUR4.jpg',
+      'http://165.22.109.98:9999/img/ARSITEKTUR3.jpeg',
+      'http://165.22.109.98:9999/img/ARSITEKTUR4.jpeg',
       'http://165.22.109.98:9999/img/ARSITEKRUR5.jpg',
     ],
     ratio: '1:30',
@@ -819,6 +819,393 @@ const prodi = [
       },
       {
         name: 'EDUCATION MANAGEMENT',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Rekayasa Perangkat Lunak Cibiru',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/Cibiru.jpeg',
+    slug: 's1-rpl-cibiru',
+    gallery: [
+      'http://165.22.109.98:9999/img/RPL1.jpg',
+      'http://165.22.109.98:9999/img/RPL2.jpeg',
+      'http://165.22.109.98:9999/img/RPL3.jpg',
+      'http://165.22.109.98:9999/img/RPL4.jpg',
+      'http://165.22.109.98:9999/img/RPL5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Program Studi S1 Rekayasa Perangkat Lunak adalah salah satu program studi yang berada di Kampus UPI di Cibiru yang berlokasi di Jl. Raya Cibiru KM 15 Kabupaten Bandung. Di dalam Program Studi Rekayasa Perangkat lunak, mahasiswa akan mempelajari bidang ilmu terkait Software Engineering (pengembangan software, manajemen software, proses engineering, perangkat engineering dan metodologi), Data Engineering (data modelling, manajemen data berbasis pengetahuan, penerapan manajemen data), Pemrograman Multimedia & Game (Game Development, animasi 2D & 3D), dan Ubiquitous Computing (Internet of Things, Augmented Reality, Cloud Computing).',
+    kurikulum: [
+      {
+        name: 'BASIS DATA',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'INTERAKSI MANUSIA DAN KOMPUTER',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'BISNIS TEKNOLOGI INFORMASI',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Teknik Komputer Cibiru',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/Cibiru.jpeg',
+    slug: 's1-tekom-cibiru',
+    gallery: [
+      'http://165.22.109.98:9999/img/TEKOM1.jpg',
+      'http://165.22.109.98:9999/img/RPL1.jpg',
+      'http://165.22.109.98:9999/img/RPL4.jpg',
+      'http://165.22.109.98:9999/img/RPL3.jpg',
+      'http://165.22.109.98:9999/img/RPL5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Teknik Komputer adalah disiplin ilmu yang mencakup ilmu komputer, desain komputer, teknologi konstruksi, implementasi dan pemeliharaan perangkat lunak dan perangkat keras komputer modern dan peralatan-peralatan yang dikontrol oleh komputer.',
+    kurikulum: [
+      {
+        name: 'BASIS DATA',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'RANGKAIAN LISTRIK',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'SINYAL DAN SISTEM',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Multimedia',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/Cibiru.jpeg',
+    slug: 's1-pendidikan-multimedia',
+    gallery: [
+      'http://165.22.109.98:9999/img/MULMED1.jpg',
+      'http://165.22.109.98:9999/img/MULMED2.jpeg',
+      'http://165.22.109.98:9999/img/MULMED3.jpg',
+      'http://165.22.109.98:9999/img/MULMED4.jpg',
+      'http://165.22.109.98:9999/img/MULMED5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Program Studi Pendidikan Multimedia Universitas Pendidikan Indonesia bertujuan untuk menjadi pelopor pendidik yang menghasilkan lulusan yang dapat menerapkan pengetahuan dan keterampilan dalam bidang pendidikan dan multimedia dalam menghadapi kemajuan teknologi yang sanat pesat di era digital saat ini.',
+    kurikulum: [
+      {
+        name: 'BAHASA RUPA',
+        sks: '2',
+        semester: '2',
+      },
+      {
+        name: 'GAMBAR BENTUK',
+        sks: '3',
+        semester: '2',
+      },
+      {
+        name: 'STRUKTUR DATA',
         sks: '2',
         semester: '4',
       },
