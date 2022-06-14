@@ -536,7 +536,7 @@ const prodi = [
     jenjang: 'S1',
     akreditasi: 'A',
     url_image: 'http://165.22.109.98:9999/img/ppl3.jpg',
-    slug: 's1-pendidikan-akuntansi',
+    slug: 's1-pendidikan-guru-sekolah-dasar-kamda-tasikmalaya',
     gallery: [
       'http://165.22.109.98:9999/img/ppl1.jpg',
       'http://165.22.109.98:9999/img/ppl2.jpg',
