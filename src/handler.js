@@ -1,10 +1,18 @@
 const fakultas = require('./fakultas')
 const prodi = require('./prodi')
+const dosen = require('./dosen')
 
 const getAllFakultasHandler = () => ({
   status: 'success',
   data: {
     fakultas,
+  },
+})
+
+const getAllDosenHandler = () => ({
+  status: 'success',
+  data: {
+    dosen,
   },
 })
 
@@ -52,4 +60,5 @@ module.exports = {
   getAllFakultasHandler,
   getDetailFakultasHandler,
   getDetailProdiHandler,
+  getAllDosenHandler,
 }
