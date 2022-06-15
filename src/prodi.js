@@ -2407,7 +2407,7 @@ const prodi = [
     name: 'Keperawatan',
     jenjang: 'S1',
     akreditasi: 'A',
-    url_image: 'http://165.22.109.98:9999/img/kamda_sumedang_keperawatan.jpg',
+    url_image: 'http://165.22.109.98:9999/img/kamda_sumedang_kepetawatan.jpg',
     slug: 's1-keperawatan',
     gallery: [
       'http://165.22.109.98:9999/img/kamda_sumedang_keperawatan.jpg',
