@@ -706,6 +706,264 @@ const prodi = [
     ],
   },
   {
+    name: 'Pendidikan Bahasa dan Sastra Indonesia',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/ppl3.jpg',
+    slug: 's1-pendidikan-bahasa-dan-sastra-indonesia',
+    gallery: [
+      'http://165.22.109.98:9999/img/indo1.jpg',
+      'http://165.22.109.98:9999/img/ppl1.jpg',
+      'http://165.22.109.98:9999/img/ppl2.jpg',
+      'http://165.22.109.98:9999/img/ppl3.jpg',
+      'http://165.22.109.98:9999/img/purwakarta51.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Program Studi Pendidikan Bahasa Indonesia merupakan salah satu PS yang bernaung di bawah Fakultas Pendidikan Bahasa dan Sastra (FPBS), Universitas Pendidikan Indonesia (UPI). Prodi ini berdiri sejak 1 September 1954 dengan SK 3872/kab. Menteri Pendidikan, Pengadjaran, dan Kebudajaan RI dengan menteri yang menjabat saat itu Mr. Muhamad Yamin. Izin operasional Prodi yang paling terakhir yaitu SK No. 4802/UN40/DT/2015 yang ditandatangani oleh Rektor UPI. ',
+    kurikulum: [
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Bahasa Inggris',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Bahasa Inggris',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/inggris.jpg',
+    slug: 's1-pendidikan-bahasa-inggris',
+    gallery: [
+      'http://165.22.109.98:9999/img/indo1.jpg',
+      'http://165.22.109.98:9999/img/ppl1.jpg',
+      'http://165.22.109.98:9999/img/ppl2.jpg',
+      'http://165.22.109.98:9999/img/ppl3.jpg',
+      'http://165.22.109.98:9999/img/purwakarta51.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Fakultas Pendidikan Bahasa dan Sastra menjadi lembaga yang unggul dalam menyelenggarakan program pendidikan bahasa dan sastra dengan manajemen berstandar internasional pada tahun 2025 .',
+    kurikulum: [
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Bahasa Inggris',
+        sks: '2',
+        semester: '4',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
     name: 'Pendidikan Seni Tari',
     jenjang: 'S1',
     akreditasi: 'A',
@@ -735,6 +993,1038 @@ const prodi = [
       },
       {
         name: 'Desain Busana Tari',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Seni Musik',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/senimusik.jpg',
+    slug: 's1-pendidikan-seni-musik',
+    gallery: [
+      'http://165.22.109.98:9999/img/senimusik2.jpg',
+      'http://165.22.109.98:9999/img/senimusik1.jpg',
+      'http://165.22.109.98:9999/img/senitari3.jpg',
+      'http://165.22.109.98:9999/img/senimusik.jpg',
+      'http://165.22.109.98:9999/img/senimusik3.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Departemen Pendidikan Seni Musik berdiri pada tanggal 05 bulan Maret tahun 2009 dengan surat keputusan dari Rektor Universitas Pendidikan Indonesia nomor : 1324/H40/KL/2009.',
+    kurikulum: [
+      {
+        name: 'Pendidikan Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Seni Musik',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Seni Rupa dan Kerajinan',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/senirupa5.jpg',
+    slug: 's1-pendidikan-seni-rupa-dan-kerajinan',
+    gallery: [
+      'http://165.22.109.98:9999/img/senirupa1.jpg',
+      'http://165.22.109.98:9999/img/senirupa2.jpg',
+      'http://165.22.109.98:9999/img/senirupa3.jpg',
+      'http://165.22.109.98:9999/img/senirupa4.jpg',
+      'http://165.22.109.98:9999/img/senirupa5.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Fine Arts Education department, established in 1961, was founded by Drs.Barli Sasmitawinata under Faculty of Literature and Arts Education (FKSS) IKIP Bandung. The establishment of this major originated from the demands for educators in Fine Arts education for secondary level students.',
+    kurikulum: [
+      {
+        name: 'Pendidikan Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Seni Musik',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Akuntansi',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/akuntansi1.jpg',
+    slug: 's1-pendidikan-akuntansi',
+    gallery: [
+      'http://165.22.109.98:9999/img/akuntansi2.jpg',
+      'http://165.22.109.98:9999/img/kantor1.jpg',
+      'http://165.22.109.98:9999/img/akuntansi1.jpg',
+      'http://165.22.109.98:9999/img/ekonomi1.jpg',
+      'http://165.22.109.98:9999/img/ekonomi2.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'he vision of the Accounting Education Study Program is Creating the Accounting Education Study Program as an educational institution that has pioneering values ​​and excellence on a national scale in the development of science and technology, as well as a profession in the field of accounting education in 2025',
+    kurikulum: [
+      {
+        name: 'Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Bahasa Inggris',
+        sks: '2',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Manajemen Perkantoran',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/kantor2.jpg',
+    slug: 's1-pendidikan-manajemen-perkantoran',
+    gallery: [
+      'http://165.22.109.98:9999/img/akuntansi2.jpg',
+      'http://165.22.109.98:9999/img/kantor1.jpg',
+      'http://165.22.109.98:9999/img/akuntansi1.jpg',
+      'http://165.22.109.98:9999/img/ekonomi1.jpg',
+      'http://165.22.109.98:9999/img/ekonomi2.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'he vision of the Accounting Education Study Program is Creating the Accounting Education Study Program as an educational institution that has pioneering values ​​and excellence on a national scale in the development of science and technology, as well as a profession in the field of accounting education in 2025',
+    kurikulum: [
+      {
+        name: 'Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Bahasa Inggris',
+        sks: '2',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Ilmu Ekonomi dan Keuangan Islam',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/akuntansi2.jpg',
+    slug: 's1-ilmu-ekonomi-dan-keuangan-islam',
+    gallery: [
+      'http://165.22.109.98:9999/img/akuntansi2.jpg',
+      'http://165.22.109.98:9999/img/kantor1.jpg',
+      'http://165.22.109.98:9999/img/akuntansi1.jpg',
+      'http://165.22.109.98:9999/img/ekonomi1.jpg',
+      'http://165.22.109.98:9999/img/ekonomi2.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'he vision of the Accounting Education Study Program is Creating the Accounting Education Study Program as an educational institution that has pioneering values ​​and excellence on a national scale in the development of science and technology, as well as a profession in the field of accounting education in 2025',
+    kurikulum: [
+      {
+        name: 'Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Bahasa Inggris',
+        sks: '2',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Guru Sekolah Dasar',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/ppl3.jpg',
+    slug: 's1-pendidikan-akuntansi',
+    gallery: [
+      'http://165.22.109.98:9999/img/ppl1.jpg',
+      'http://165.22.109.98:9999/img/ppl2.jpg',
+      'http://165.22.109.98:9999/img/ppl3.jpg',
+      'http://165.22.109.98:9999/img/kwu2.jpg',
+      'http://165.22.109.98:9999/img/desain1.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'UPI Kampus Tasikmalaya mulai membuka program S1 PGSD dalam Jabatan yang diperuntukkan bagi guru SD yang akan meningkatkan kualifikasi pendidikannya. Program Studi S1 PGSD untuk masa bakti 2019-2023 dipimpin oleh Dr. Dian Indihadi, M.Pd. Profil lulusan Program Studi S1 PGSD merupakan ahli di bidang pendidikan jenjang sekolah dasar yang kompeten, adaptif, inovatif, dan cakap sebagai pendidik, wirausaha, peneliti, dan praktisi/ahli di bidang pendidikan baik di level nasional maupun internasional.',
+    kurikulum: [
+      {
+        name: 'Pendidikan Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Agama Islam',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pengantar Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Kewirausahaan',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/ppl3.jpg',
+    slug: 's1-kewirausahaan',
+    gallery: [
+      'http://165.22.109.98:9999/img/ppl1.jpg',
+      'http://165.22.109.98:9999/img/ppl2.jpg',
+      'http://165.22.109.98:9999/img/ppl3.jpg',
+      'http://165.22.109.98:9999/img/kwu2.jpg',
+      'http://165.22.109.98:9999/img/desain1.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'UPI Kampus Tasikmalaya mulai membuka program S1 PGSD dalam Jabatan yang diperuntukkan bagi guru SD yang akan meningkatkan kualifikasi pendidikannya. Program Studi S1 PGSD untuk masa bakti 2019-2023 dipimpin oleh Dr. Dian Indihadi, M.Pd. Profil lulusan Program Studi S1 PGSD merupakan ahli di bidang pendidikan jenjang sekolah dasar yang kompeten, adaptif, inovatif, dan cakap sebagai pendidik, wirausaha, peneliti, dan praktisi/ahli di bidang pendidikan baik di level nasional maupun internasional.',
+    kurikulum: [
+      {
+        name: 'Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Agama Islam',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Kewirausahaan',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Desain Produk Industri',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/desain1.jpg',
+    slug: 's1-desain-produk-industri',
+    gallery: [
+      'http://165.22.109.98:9999/img/desain2.jpg',
+      'http://165.22.109.98:9999/img/desain4.jpg',
+      'http://165.22.109.98:9999/img/desain5.jpg',
+      'http://165.22.109.98:9999/img/desain1.jpg',
+      'http://165.22.109.98:9999/img/desain3.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'UPI Kampus Tasikmalaya mulai membuka program S1 PGSD dalam Jabatan yang diperuntukkan bagi guru SD yang akan meningkatkan kualifikasi pendidikannya. Program Studi S1 PGSD untuk masa bakti 2019-2023 dipimpin oleh Dr. Dian Indihadi, M.Pd. Profil lulusan Program Studi S1 PGSD merupakan ahli di bidang pendidikan jenjang sekolah dasar yang kompeten, adaptif, inovatif, dan cakap sebagai pendidik, wirausaha, peneliti, dan praktisi/ahli di bidang pendidikan baik di level nasional maupun internasional.',
+    kurikulum: [
+      {
+        name: 'Bahasa Indonesia',
+        sks: '2',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Agama Islam',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'desain produk',
         sks: '3',
         semester: '3',
       },
