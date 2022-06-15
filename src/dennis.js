@@ -113,6 +113,13 @@ const fakultas = [
         url_image: "http://165.22.109.98:9999/img/FIP6.png",
         slug: "s1-pendidikan-guru-sekolah-dasar",
       },
+      {
+        name: "Keperawatan",
+        jenjang: "S1",
+        akreditasi: "A",
+        url_image: "http://165.22.109.98:9999/img/FIP6.png",
+        slug: "s1-keperawatan",
+      },
     ],
   },
 ];
