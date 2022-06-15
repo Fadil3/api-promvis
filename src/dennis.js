@@ -238,7 +238,13 @@ const fakultas = [
       },
     ],
     prodi: [
-      
+      {
+        name: "PG-PAUD",
+        jenjang: "S1",
+        akreditasi: "A",
+        url_image: "http://165.22.109.98:9999/img/FIP6.png",
+        slug: "s1-pg-paud-serang",
+      },
     ],
   },
 ];
