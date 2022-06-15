@@ -433,6 +433,438 @@ const prodi = [
     ],
   },
   {
+    name: 'Pendidikan Luar Sekolah',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/FIP8.jpeg',
+    slug: 's1-pendidikan-luar-sekolah',
+    gallery: [
+      'http://165.22.109.98:9999/img/psl1.jpg',
+      'http://165.22.109.98:9999/img/psl2.jpg',
+      'http://165.22.109.98:9999/img/psl3.jpg',
+      'http://165.22.109.98:9999/img/psl4.jpg',
+      'http://165.22.109.98:9999/img/psl5.png',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Prodi Administrasi Pendidikan Menjadi Pelopor dan Unggul Dalam Pengembangan Disiplin Ilmu dan Profesi Administrasi Pendidikan Yang Responsif Terhadap Perubahan Educational Strategic And Policy Action Pada Tingkat Regional, Nasional, dan Menjadi Bagian Dalam Asian Century Bidang Pendidikan',
+    kurikulum: [
+      {
+        name: 'Dasar-Dasar Administrasi Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Teori Sistem',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pembuatan Keputusan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Teori Organisasi',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Akuntansi Keuangan Dasar',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Mengetik (Berbasis Komputer)',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Kepelatihan Olahraga',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/FPOK5.jpeg',
+    slug: 's1-pendidikan-kepelatihan-olahraga',
+    gallery: [
+      'http://165.22.109.98:9999/img/PKO.jpg',
+      'http://165.22.109.98:9999/img/PKO1.jpg',
+      'http://165.22.109.98:9999/img/PKO2.jpg',
+      'http://165.22.109.98:9999/img/PKO3.jpg',
+      'http://165.22.109.98:9999/img/PKO4.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Menjadi Program Studi Pelopor dan Unggul di Bidang Pendidikan Kepelatihan Olahraga tahun 2025',
+    kurikulum: [
+      {
+        name: 'Pelatihan Cabor Senam I',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Psikologi Olahraga',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Biomekanika Olahraga',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Statistika',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pelatihan Cabor Bola Basket',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pelatihan Cabor Sepak Bola',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Kesehatan dan Rekreasi',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/FPOK4.jpg',
+    slug: 's1-pendidikan-kesehatan-dan-rekreasi',
+    gallery: [
+      'http://165.22.109.98:9999/img/PKR.jpg',
+      'http://165.22.109.98:9999/img/PKR1.jpg',
+      'http://165.22.109.98:9999/img/PKR2.jpg',
+      'http://165.22.109.98:9999/img/PKR3.png',
+      'http://165.22.109.98:9999/img/PKR4.png',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Menjadi Fakultas pelopor dan unggul (leading and outstanding) dalam bidang pendidikan jasmani dan olahraga yang dilandasi oleh nilai-nilai ilmiah, religius, edukatif, dan profesional.',
+    kurikulum: [
+      {
+        name: 'Landasan Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Psikologi Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Kurikulum dan Pembelajaran',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pengelolaan Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Penelitian Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Sport Medicine',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
     name: 'Pendidikan Jasmani, Kesehatan dan Rekreasi',
     jenjang: 'S1',
     akreditasi: 'A',
@@ -580,8 +1012,8 @@ const prodi = [
     name: 'Pendidikan Guru Sekolah Dasar',
     jenjang: 'S1',
     akreditasi: 'A',
-    url_image: 'http://165.22.109.98:9999/img/Purwakarta5.png',
-    slug: 's1-pendidikan-guru-sekolah-dasar',
+    url_image: 'http://165.22.109.98:9999/img/Purwakarta5.jpeg',
+    slug: 's1-pendidikan-guru-sekolah-dasar-purwakarta',
     gallery: [
       'http://165.22.109.98:9999/img/Purwakarta50.jpg',
       'http://165.22.109.98:9999/img/Purwakarta51.jpg',
@@ -621,6 +1053,294 @@ const prodi = [
       },
       {
         name: 'Ilmu Sosial Budaya Dasar',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan Guru Pendidikan Anak Usia Dini',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/Purwakarta6.jpg',
+    slug: 's1-pendidikan-guru-pendidikan-anak-usia-dini',
+    gallery: [
+      'http://165.22.109.98:9999/img/pgpaud.png',
+      'http://165.22.109.98:9999/img/pgpaud1.jpg',
+      'http://165.22.109.98:9999/img/pgpaud2.png',
+      'http://165.22.109.98:9999/img/pgpaud3.png',
+      'http://165.22.109.98:9999/img/pgpaud4.png',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Menghasilkan lulusan yang mampu melaksanakan, mengembangkan, dan mengelola pendidikan anak usia dini di lembaga Pendidikan Anak Usia Dini baik di Taman Kanak-Kanak (TK), Kelompok Bermain (KB), Tempat Penitipan Anak (TPA) dan Satuan PAUD Sejenis',
+    kurikulum: [
+      {
+        name: 'Landasan Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Psikologi Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Kurikulum dan Pembelajaran',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pedagogik',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Kebijakan dan Inovasi Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pendidikan Inklusi',
+        sks: '3',
+        semester: '3',
+      },
+    ],
+    stats: [
+      {
+        title: 'Rasio Dosen Berdasarkan Gender',
+        data: [
+          {
+            tahun: '2021',
+            laki_laki: 38,
+            perempuan: 62,
+          },
+          {
+            tahun: '2022',
+            laki_laki: 40,
+            perempuan: 60,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jenjang Pendidikan Terakhir',
+        data: [
+          {
+            tahun: '2021',
+            s2: 53,
+            s3: 47,
+          },
+          {
+            tahun: '2022',
+            s2: 41,
+            s3: 59,
+          },
+        ],
+      },
+      {
+        title: 'Keketatan Penerimaaan Mahasiswa',
+        data: [
+          {
+            tahun: 2017,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2018,
+            snmptn: 29,
+            sbmptn: 29,
+            smupi: 11,
+          },
+          {
+            tahun: 2019,
+            snmptn: 18,
+            sbmptn: 17,
+            smupi: 7,
+          },
+          {
+            tahun: 2020,
+            snmptn: 18,
+            sbmptn: 11,
+            smupi: 7,
+          },
+          {
+            tahun: 2021,
+            snmptn: 20,
+            sbmptn: 12,
+            smupi: 8,
+          },
+          {
+            tahun: 2022,
+            snmptn: 18,
+            sbmptn: 10,
+            smupi: 4,
+          },
+        ],
+      },
+      {
+        title: 'Rasio Dosen Berdasarkan Jabatan Fungsional',
+        data: [
+          {
+            tahun: '2020',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+          {
+            tahun: '2021',
+            tp: 4,
+            aa: 8,
+            lk: 12,
+            lkp: 22,
+            gb: 5,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Pendidikan dan Teknologi Informasi',
+    jenjang: 'S1',
+    akreditasi: 'A',
+    url_image: 'http://165.22.109.98:9999/img/Purwakarta7.jpg',
+    slug: 's1-pendidikan-dan-teknologi-informasi',
+    gallery: [
+      'http://165.22.109.98:9999/img/PTI.jpg',
+      'http://165.22.109.98:9999/img/PTI1.jpg',
+      'http://165.22.109.98:9999/img/PTI2.jpg',
+      'http://165.22.109.98:9999/img/PTI3.jpg',
+      'http://165.22.109.98:9999/img/PTI4.jpg',
+    ],
+    ratio: '1:30',
+    avg_study_time: '3.5',
+    description:
+      'Menjadi Program Studi Pelopor dan Unggul dalam Pendidikan Sistem dan Teknologi Informasi di tingkat Nasional tahun 2020',
+    kurikulum: [
+      {
+        name: 'Kurikulum dan Pembelajaran',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Pengelolaan Pendidikan',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Strategi Pembelajaran Bidang Studi',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Literasi ICT dan Media Pembelajaran Bidang Studi',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Evaluasi Pembelajaran Bidang Studi',
+        sks: '3',
+        semester: '3',
+      },
+      {
+        name: 'Perencanaan Pembelajaran Pembelajaran Bidang Studi',
         sks: '3',
         semester: '3',
       },
@@ -1112,7 +1832,7 @@ const prodi = [
     jenjang: 'S1',
     akreditasi: 'A',
     url_image: 'http://165.22.109.98:9999/img/ppl3.jpg',
-    slug: 's1-pendidikan-akuntansi',
+    slug: 's1-pendidikan-guru-sekolah-dasar-tasikmalaya',
     gallery: [
       'http://165.22.109.98:9999/img/ppl1.jpg',
       'http://165.22.109.98:9999/img/ppl2.jpg',
