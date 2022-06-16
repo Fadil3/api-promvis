@@ -436,11 +436,11 @@ const prodi = [
     name: 'Pendidikan Jasmani, Kesehatan dan Rekreasi',
     jenjang: 'S1',
     akreditasi: 'A',
-    url_image: 'http://165.22.109.98:9999/img/FPOK6.png',
+    url_image: 'http://165.22.109.98:9999/img/FPOK6.jpg',
     slug: 's1-pendidikan-jasmani-kesehatan-dan-rekreasi',
     gallery: [
       'http://165.22.109.98:9999/img/FPOK7.png',
-      'http://165.22.109.98:9999/img/FPOK60.png',
+      'http://165.22.109.98:9999/img/FPOK60.jpeg',
       'http://165.22.109.98:9999/img/FPOK61.jpg',
       'http://165.22.109.98:9999/img/FPOK62.jpg',
       'http://165.22.109.98:9999/img/FPOK63.jpg',
