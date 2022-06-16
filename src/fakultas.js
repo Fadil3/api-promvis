@@ -281,7 +281,7 @@ const fakultas = [
         jenjang: 'S1',
         akreditasi: 'A',
         url_image: 'http://165.22.109.98:9999/img/FIP8.jpeg',
-        slug: 's1-luar-sekolah',
+        slug: 's1-pendidikan-luar-sekolah',
       },
     ],
   },
