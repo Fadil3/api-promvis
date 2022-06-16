@@ -1,16 +1,14 @@
 const prodi = [
   {
-    name: 'Pendidikan Ilmu Komputer',
+    name: 'Ilmu Komputer',
     jenjang: 'S1',
     akreditasi: 'A',
-    url_image: 'http://165.22.109.98:9999/img/FPMIPA.jpg',
-    slug: 's1-pendidikan-ilmu-komputer',
+    url_image: 'http://165.22.109.98:9999/img/ilkom.jpeg',
+    slug: 's1-ilmu-komputer',
     gallery: [
-      'http://165.22.109.98:9999/img/FPMIPA.jpg',
-      'http://165.22.109.98:9999/img/FPMIPA.jpg',
-      'http://165.22.109.98:9999/img/FPMIPA.jpg',
-      'http://165.22.109.98:9999/img/FPMIPA.jpg',
-      'http://165.22.109.98:9999/img/FPMIPA.jpg',
+      'http://165.22.109.98:9999/img/ilkom2.jpeg',
+      'http://165.22.109.98:9999/img/ilkom3.jpeg',
+      'http://165.22.109.98:9999/img/ilkom4.jpg',
       'http://165.22.109.98:9999/img/FPMIPA.jpg',
     ],
     ratio: '1:30',
