@@ -2793,9 +2793,9 @@ const prodi = [
     gallery: [
       'http://165.22.109.98:9999/img/SOSIOLOGI1.jpg',
       'http://165.22.109.98:9999/img/SOSIOLOGI2.jpg',
-      'http://165.22.109.98:9999/img/SOSIOLOGI3.jpg',
-      'http://165.22.109.98:9999/img/SOSIOLOGI4.jpg',
-      'http://165.22.109.98:9999/img/SOSIOLOGI5.jpg',
+      'http://165.22.109.98:9999/img/SOSIOLOGI3.jpeg',
+      'http://165.22.109.98:9999/img/SOSIOLOGI4.jpeg',
+      'http://165.22.109.98:9999/img/SOSIOLOGI5.jpeg',
     ],
     ratio: '1:30',
     avg_study_time: '3.5',
